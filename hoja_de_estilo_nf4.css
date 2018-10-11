@@ -1,0 +1,20 @@
+#foto{
+	position: absolute;
+	top:100px;
+	left:500px;
+}
+#table{
+	margin: bold;
+}
+h2{
+    background-color: darkgrey;
+}
+
+#foto{
+    width: 240px;
+    
+    position:absolute;
+    top: 20px;
+    left: 950px;
+    display: inline;
+}
